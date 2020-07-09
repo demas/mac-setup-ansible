@@ -2,10 +2,15 @@
 homebrew_installed_packages:
   - ack
   - azure-cli
+  - bat
   - exa
+  - fd
+  - fzf
   - gcc
   - git
+  - glances
   - go
+  - jq
   - helm
   - htop
   - httpie
@@ -18,28 +23,39 @@ homebrew_installed_packages:
   - protobuf
   - pyenv
   - sqlite
+  - terraform
+  - tree
   - tmux
   - wget
   - youtube-dl
+  - zsh-autosuggestions
+  - zsh-syntax-highlighting
 
 homebrew_taps:
   - homebrew/core
   - homebrew/cask
+  - homebrew/cask-fonts
 
 homebrew_cask_appdir: /Applications
 homebrew_cask_apps:
   - dash
   - emacs
+  - font-hack
+  - font-hasklig
   - iterm2
   - font-fira-code
   - goland
+  - java
+  - nightowl
   - notion
   - spotify
+  - taskpaper
   - typora
   - vagrant
   - virtualbox
 
 mas_installed_apps: []
+#   - { id: 747648890, name: "Telegram" }
 
 gem_packages: []
 
