@@ -1,0 +1,48 @@
+---
+homebrew_installed_packages:
+  - ack
+  - azure-cli
+  - exa
+  - gcc
+  - git
+  - go
+  - helm
+  - htop
+  - httpie
+  - kubernetes-cli
+  - mas
+  - micro
+  - neovim
+  - nmap
+  - node
+  - protobuf
+  - pyenv
+  - sqlite
+  - tmux
+  - wget
+  - youtube-dl
+
+homebrew_taps:
+  - homebrew/core
+  - homebrew/cask
+
+homebrew_cask_appdir: /Applications
+homebrew_cask_apps:
+  - dash
+  - emacs
+  - iterm2
+  - font-fira-code
+  - goland
+  - notion
+  - spotify
+  - typora
+  - vagrant
+  - virtualbox
+
+mas_installed_apps: []
+
+gem_packages: []
+
+npm_packages: []
+
+pip_packages: []
