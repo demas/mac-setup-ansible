@@ -48,6 +48,7 @@ homebrew_cask_apps:
   - java
   - nightowl
   - notion
+  - plexamp
   - spotify
   - taskpaper
   - typora
@@ -62,3 +63,14 @@ gem_packages: []
 npm_packages: []
 
 pip_packages: []
+
+oh_my_zsh_theme: af-magic
+
+oh_my_zsh_plugins:
+  - ansible
+  - docker
+  - emacs
+  - git
+  - pyenv
+  - python
+  - vagrant  
